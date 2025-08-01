@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou Guilherme Torres 👋</h1>
 
 <p align="center">
-  <img src="images/unnamded.jpg" alt="Guilherme Torres" width="200" style="border-radius:50%;">
+  <img src="https://github.com/guitorrestzz/guitorrestzz/blob/main/assets/perfil.gif" alt="Guilherme Torres" width="200" style="border-radius:50%;">
 </p>
 
 ---
@@ -34,12 +34,11 @@ Aqui estão as principais tecnologias e ferramentas que utilizo no meu dia a dia
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
-  
+   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="40" height="40"/>
-
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQLite" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQLite" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" width="40" height="40"/>
 </p>
@@ -81,6 +80,12 @@ Aqui estão as principais tecnologias e ferramentas que utilizo no meu dia a dia
 * **Privacidade e Proteção de Dados (LGPD)** - SENAI (2025)
 
 [Ver todos os certificados](https://github.com/guitorrestzz/Certificados)
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/guitorrestzz/guitorrestzz/output/github-contribution-grid-snake.svg" alt="Snake animation on contribution graph">
+</p>
 
 ---
 
