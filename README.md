@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou Guilherme Torres 👋</h1>
 
 <p align="center">
-  <img src="https://github.com/guitorrestzz/guitorrestzz/blob/main/assets/perfil.gif" alt="Guilherme Torres" width="200" style="border-radius:50%;">
+  <img src="https://github.com/guitorrestzz/guitorrestzz/blob/main/imagens/unnamed.jpg" alt="Guilherme Torres" width="200" style="border-radius:50%;">
 </p>
 
 ---
@@ -82,10 +82,6 @@ Aqui estão as principais tecnologias e ferramentas que utilizo no meu dia a dia
 [Ver todos os certificados](https://github.com/guitorrestzz/Certificados)
 
 ---
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/guitorrestzz/guitorrestzz/output/github-contribution-grid-snake.svg" alt="Snake animation on contribution graph">
-</p>
 
 ---
 
