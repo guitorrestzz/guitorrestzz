@@ -21,7 +21,7 @@
 ---
 
 ### 🚀 Sobre Mim
-Desenvolvedor **Full Stack** apaixonado por transformar ideias em soluções digitais inovadoras. Minha jornada na tecnologia começou com a curiosidade e se solidificou com a formação em **Desenvolvimento de Sistemas pelo SENAI**.
+Desenvolvedor **Full Stack** focado no **Backend**, apaixonado por transformar ideias em soluções digitais inovadoras. Minha jornada na tecnologia começou com a curiosidade e se solidificou com a formação em **Desenvolvimento de Sistemas pelo SENAI**.
 
 Com **2 anos de experiência** em desenvolvimento web e **6 projetos concluídos**, acredito no poder da colaboração e na criação de soluções que impactem positivamente o usuário. Minha experiência na **FLL (First Lego League)**, onde cheguei à etapa mundial, aprimorou minhas habilidades de trabalho em equipe, liderança e resolução de problemas complexos.
 
