@@ -90,6 +90,6 @@ Aqui estão as principais tecnologias e ferramentas que utilizo no meu dia a dia
 
 > "Consagre ao Senhor tudo o que você faz, e os seus planos serão bem-sucedidos 
 
-Provérbios 16:3."<
+Provérbios 16:3." >
 
 ---
