@@ -1,18 +1,20 @@
+<div align="center">
+
 <h1 align="center">Olá, eu sou Guilherme Torres 👋</h1>
 
 <p align="center">
-  <img src="https://github.com/guitorrestzz/guitorrestzz/blob/main/imagens/unnamed.jpg" alt="Guilherme Torres" width="200" style="border-radius:50%;">
+  <img src="https://github.com/guitorrestzz/guitorrestzz/blob/main/imagens/unnamed.jpg" alt="Guilherme Torres" width="200" style="border-radius:50%;">
 </p>
 
 ---
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/guilherme-torres">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:guilhermetorres35056@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
+  <a href="https://www.linkedin.com/in/guilherme-torres">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:guilhermetorres35056@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
 </p>
 
 ---
@@ -29,18 +31,18 @@ Com **2 anos de experiência** em desenvolvimento web e **6 projetos concluídos
 Aqui estão as principais tecnologias e ferramentas que utilizo no meu dia a dia:
 
 #### Hard Skills
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
-   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQLite" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" width="40" height="40"/>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
+   
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQLite" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" width="40" height="40"/>
 </p>
 
 #### Soft Skills
@@ -53,10 +55,10 @@ Aqui estão as principais tecnologias e ferramentas que utilizo no meu dia a dia
 
 ### 📊 Estatísticas do GitHub
 <div align="center">
-  <a href="https://github.com/guitorrestzz">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guitorrestzz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guitorrestzz&layout=compact&langs_count=10&theme=dracula"/>
-  </a>
+  <a href="https://github.com/guitorrestzz">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guitorrestzz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guitorrestzz&layout=compact&langs_count=10&theme=dracula"/>
+  </a>
 </div>
 
 ---
@@ -87,4 +89,4 @@ Aqui estão as principais tecnologias e ferramentas que utilizo no meu dia a dia
 
 > "Consagre ao Senhor tudo o que você faz, e os seus planos serão bem-sucedidos - Provérbios 16:3."
 
----
+</div>
