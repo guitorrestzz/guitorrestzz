@@ -88,6 +88,8 @@ Aqui estão as principais tecnologias e ferramentas que utilizo no meu dia a dia
 
 ---
 
-> "A tecnologia move o mundo, mas a educação é o que dá direção."
+> "Consagre ao Senhor tudo o que você faz, e os seus planos serão bem-sucedidos 
+
+Provérbios 16:3."
 
 ---
