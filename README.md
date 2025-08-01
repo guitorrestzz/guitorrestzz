@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou Guilherme Torres 👋</h1>
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/105400940?v=4" alt="Guilherme Torres" width="200" style="border-radius:50%;">
+  <img src="images/unnamded.jpg" alt="Guilherme Torres" width="200" style="border-radius:50%;">
 </p>
 
 ---
