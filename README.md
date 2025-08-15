@@ -83,7 +83,7 @@ Minha trajetória começou com curiosidade e hoje é guiada por **paixão em cri
 
 ---
 
-> ✝ “Consagre ao Senhor tudo o que você faz, e os seus planos serão bem-sucedidos.” — *Provérbios 16:3*
+>  “Consagre ao Senhor tudo o que você faz, e os seus planos serão bem-sucedidos.” — *Provérbios 16:3*
 
 ---
 
